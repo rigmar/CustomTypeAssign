@@ -11,8 +11,8 @@ DEBUG = False
 if DEBUG:
     import pydevd_pycharm
 
-from actions import HexRaysPopupAction, action_manager
-from callbacks import hx_callback_manager
+from CustomTypeAssign.actions import HexRaysPopupAction, action_manager
+from CustomTypeAssign.callbacks import hx_callback_manager
 
 RecastLocalVariable = namedtuple('RecastLocalVariable', ['curr_ti', 'local_variable'])
 RecastGlobalVariable = namedtuple('RecastGlobalVariable', ['curr_ti', 'global_variable_ea'])
