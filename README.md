@@ -1,6 +1,6 @@
 # CustomTypeAssign
 IDA pro plugin for assign type declarations with 'bad' characters. Like c++ stl templates Less/Greater brackets.\
-Adds 'Set custom type...' action to right-click menu in HexRays pseudocode windows. Or can be obtained through 'shft-y' hotkey.
+Adds 'Set custom type...' action to right-click menu in HexRays pseudocode windows. Or can be obtained through 'shift-y' hotkey.
 
 
 ## Works with:
