@@ -1,6 +1,6 @@
 import idaapi
 
-from callbacks import hx_callback_manager, HexRaysEventHandler
+from CustomTypeAssign.callbacks import hx_callback_manager, HexRaysEventHandler
 
 
 class ActionManager(object):
